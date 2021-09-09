@@ -1,4 +1,10 @@
-hamonikr-grub-theme (3.0.0) public; urgency=medium
+hamonikr-grub-theme (3.0.1) hanla; urgency=medium
+
+  * Fix postinst
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 09 Sep 2021 16:06:24 +0900
+
+hamonikr-grub-theme (3.0.0) hanla; urgency=medium
 
   * Release for HamoniKR 5.0
 
