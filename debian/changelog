@@ -1,5 +1,11 @@
 hamonikr-grub-theme (3.0.2) hanla; urgency=medium
 
+  * Add pre-depends hamonikr-info
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 19 Oct 2021 18:56:13 +0900
+
+hamonikr-grub-theme (3.0.2) hanla; urgency=medium
+
   * Fix prerm
 
  -- HamoniKR <pkg@hamonikr.org>  Thu, 07 Oct 2021 19:22:16 +0900
